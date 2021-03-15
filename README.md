@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# Hot keys
+Ctrl+Shift+K	Удалить строку
+Ctrl+Enter	Вставить строку ниже
+Ctrl+Shift+Enter	Вставить строку выше
